@@ -11,4 +11,6 @@ package pkg00git3;
  */
 public class Eduardo {
     int ola_eduardo;
+    int passaOArthur;
+    int passaOFabricio;
 }
